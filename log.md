@@ -4,12 +4,14 @@
 
  ## Day 1: January 04, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Projects**<br>
+[In Time](https://github.com/LuizMaestri/in-time)
 
-**Thoughts**
+**Today's Progress**: I've created a makefile to install and run the project any PC with Ubuntu's Derivations
 
-I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**<br>
+I need to think better in the application's architeture
 
 **Link(s) to work**
 
-1. [sad]()
+1. [First Blood commit](https://github.com/LuizMaestri/in-time/commit/c7adad6d1624a19d0b993ad66dda0d1673f90668)
