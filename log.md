@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 0: February 30, 2016 (Example 1) ##### (delete me or comment me out) **Today's Progress**: Fixed CSS, worked on canvas functionality for the app. **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. **Link to work:** [Calculator App](http://www.example.com) ### Day 0: February 30, 2016 (Example 2) ##### (delete me or comment me out) **Today's Progress**: Fixed CSS, worked on canvas functionality for the app. **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. **Link(s) to work**: [Calculator App](http://www.example.com) -->
-
- ## Day 1: January 04, Wednesday
+## &nbsp;&nbsp;&nbsp;&nbsp; Day 1: January 04, Wednesday
 
 **Projects**<br>
 [In Time](https://github.com/LuizMaestri/in-time)
@@ -40,16 +38,17 @@ I've thinked in a simple project architecture and configs but I've advance so li
 10. [server.py only start app commit](https://github.com/LuizMaestri/in-time/commit/34821adc3035fac88434641f982fd12150dcea49)
 11. [create __init__.py to import all futures API commit](https://github.com/LuizMaestri/in-time/commit/fe10243d784e1c3882ee2898359381ded8423046)
 
-## Day 3: January 06, Friday
+  ## Day 3: January 06, Friday
 
 **Projects**<br>
 [In Time](https://github.com/LuizMaestri/in-time)
 
-**Today's Progress**: I've created User entity, and I had a few problems with mongo on change from ElementaOS to OSx.
+**Today's Progress**: I've created User entity and fixed some thing on db`s files what I had forgotten, and I had a few problems with mongo on change from ElementaOS to OSx.
 
 **Thoughts**<br>
 This morning because work and problems with mongo ports (27012-linux) (27017-mac) Fu\**, my advance was been prejudicate.
-<br>I hope afternoon`ll be more productive
+<br>I hope afternoon`ll be more productive.
+yeah... afternoon not productiv,
 
 **Link(s) to work**
 
@@ -60,3 +59,7 @@ This morning because work and problems with mongo ports (27012-linux) (27017-mac
 5. [start mongo connection in seperate file commit](https://github.com/LuizMaestri/in-time/commit/370a6e9ccbc4833fb1c66bbd738efba6b02102e0)
 6. [add mapping password field, save pssword on md5 hash commit](https://github.com/LuizMaestri/in-time/commit/00a177beaeea8b0c5c18e4e9b3997bfaf78bc7fd)
 7. [remove first docstring, I`ll write a good doc later. (create issue for this) commit](https://github.com/LuizMaestri/in-time/commit/6817a6e8c57bf0a155693face9e7542c7c518f32)
+8. [fix typing error commit](https://github.com/LuizMaestri/in-time/commit/5bcd34ac178f0d9553ddb8757b0cddbf31d823c4)
+9. [add forgotten import and fix class name commit](https://github.com/LuizMaestri/in-time/commit/fc5ad3d987608a97cf860b562a789a278bb2aa9b)
+10. [fix git errors :) commit](https://github.com/LuizMaestri/in-time/commit/ee634bbcb578496639fe31c7ff846a4596b6e042)
+11. [add unique index to username commit](https://github.com/LuizMaestri/in-time/commit/109ad517613a0d35a3626678ff0722500ac9b278)
