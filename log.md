@@ -16,7 +16,7 @@ I need to think better in the application's architeture
 
 1. [First Blood commit](https://github.com/LuizMaestri/in-time/commit/c7adad6d1624a19d0b993ad66dda0d1673f90668)
 
-  ## Day 2: January 05, Wednesday
+  ## Day 2: January 05, Thursday
 
 **Projects**<br>
 [In Time](https://github.com/LuizMaestri/in-time)
@@ -39,3 +39,24 @@ I've thinked in a simple project architecture and configs but I've advance so li
 9. [change execution order commit](https://github.com/LuizMaestri/in-time/commit/43a3f9be304ff673d885d071632574ebc9c5fd0c)
 10. [server.py only start app commit](https://github.com/LuizMaestri/in-time/commit/34821adc3035fac88434641f982fd12150dcea49)
 11. [create __init__.py to import all futures API commit](https://github.com/LuizMaestri/in-time/commit/fe10243d784e1c3882ee2898359381ded8423046)
+
+## Day 3: January 06, Friday
+
+**Projects**<br>
+[In Time](https://github.com/LuizMaestri/in-time)
+
+**Today's Progress**: I've created User entity, and I had a few problems with mongo on change from ElementaOS to OSx.
+
+**Thoughts**<br>
+This morning because work and problems with mongo ports (27012-linux) (27017-mac) Fu\**, my advance was been prejudicate.
+<br>I hope afternoon`ll be more productive
+
+**Link(s) to work**
+
+1. [remove test import by variable __all__ commit](https://github.com/LuizMaestri/in-time/commit/0a3aa1ae844b89c8335653cff6f46db3d895a44b)
+2. [down dir project`s level commit](https://github.com/LuizMaestri/in-time/commit/dc8ddcac170b84e2ef106a6ad2a3659320baa0b2)
+3. [change project dir commit](https://github.com/LuizMaestri/in-time/commit/13e46f2ff1fb5eefc8d2a9fb5075bed8816e2a86)
+4. [stop using import_name on initialize app and using root_path to set config file now commit](https://github.com/LuizMaestri/in-time/commit/aed3b714df8dfcec74cc3792a7e131804ee4a848)
+5. [start mongo connection in seperate file commit](https://github.com/LuizMaestri/in-time/commit/370a6e9ccbc4833fb1c66bbd738efba6b02102e0)
+6. [add mapping password field, save pssword on md5 hash commit](https://github.com/LuizMaestri/in-time/commit/00a177beaeea8b0c5c18e4e9b3997bfaf78bc7fd)
+7. [remove first docstring, I`ll write a good doc later. (create issue for this) commit](https://github.com/LuizMaestri/in-time/commit/6817a6e8c57bf0a155693face9e7542c7c518f32)
