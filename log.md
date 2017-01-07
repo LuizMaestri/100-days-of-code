@@ -63,7 +63,7 @@ I hope afternoon`ll be more productive. yeah... afternoon not productive
 10. [fix git errors :) commit](https://github.com/LuizMaestri/in-time/commit/ee634bbcb578496639fe31c7ff846a4596b6e042)
 11. [add unique index to username commit](https://github.com/LuizMaestri/in-time/commit/109ad517613a0d35a3626678ff0722500ac9b278)
 
-  ## Day 3: January 06, Friday
+  ## Day 4: January 07, Saturday
 
 **Projects**<br>
 [In Time](https://github.com/LuizMaestri/in-time)
