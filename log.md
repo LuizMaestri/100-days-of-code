@@ -68,7 +68,7 @@ I hope afternoon`ll be more productive. yeah... afternoon not productive
 **Projects**<br>
 [In Time](https://github.com/LuizMaestri/in-time)
 
-**Today's Progress**: Finally the project has a module's structure defined.
+**Today's Progress**: Finally the project has a module's structure defined. And I've had reimplemented EnumField 'cause mongoalchemy implementation is with a bug.
 
 **Thoughts**<br>
 After midnight is better hour to code... hahaha.. I think change this project name from _in-time_ to _stack_ and when completed really start _in-time_ project and others using _stack_
@@ -79,3 +79,5 @@ After midnight is better hour to code... hahaha.. I think change this project na
 2. [start all api commit](https://github.com/LuizMaestri/in-time/commit/04495c20286d8f8a66e01da3312ad28987fa176e)
 3. [modified server to using app from auth module commit](https://github.com/LuizMaestri/in-time/commit/c6aacad9af76ceecc09ab96081477c5dbfd99834)
 4. [start api to auth users commit](https://github.com/LuizMaestri/in-time/commit/af905ca6a297c36171fd305c41221fd62e9a1b7d)
+5. [create a simple authentication method commit](https://github.com/LuizMaestri/in-time/commit/3e2cf047d12ed5db10a84c6e2fc4deaa61b0ac25)
+6. [add pycham config's dir to .gitignore commit](https://github.com/LuizMaestri/in-time/commit/330a038f9e74fbe85e8e27a20518dae344dadbdb)
