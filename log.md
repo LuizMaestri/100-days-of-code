@@ -81,3 +81,30 @@ After midnight is better hour to code... hahaha.. I think change this project na
 4. [start api to auth users commit](https://github.com/LuizMaestri/in-time/commit/af905ca6a297c36171fd305c41221fd62e9a1b7d)
 5. [create a simple authentication method commit](https://github.com/LuizMaestri/in-time/commit/3e2cf047d12ed5db10a84c6e2fc4deaa61b0ac25)
 6. [add pycham config's dir to .gitignore commit](https://github.com/LuizMaestri/in-time/commit/330a038f9e74fbe85e8e27a20518dae344dadbdb)
+
+  ## Day 5: January 08, Sunday
+
+**Projects**<br>
+[In Time](https://github.com/LuizMaestri/in-time)<br>
+[MongoKit](https://github.com/LuizMaestri/mongokit)<br>
+[Mongo Easy](https://github.com/LuizMaestri/mongo-easy)
+
+**Today's Progress**: I've try change from MongoAlchemy to MongoKit, but MongoKit is dead, I make a fork from a fork of project to fix but not successfuly
+
+**Thoughts**<br>
+I gonna try create my own ODM for python 'cause MongoKit and MongoAlchemy isn't work well if flask or better not work... And I don't know what I really think about MongoEngine.
+
+**Link(s) to work**
+
+## _in-time project_
+
+1. [rename password.py to fields.py, rename PasswordField to Md5Field and create StringEnumField commit](https://github.com/LuizMaestri/in-time/commit/43175a9cdd63cc6c2785ed8795ae86cb2c98b5fa)
+2. [rename function password_md5 to md5_hex commit](https://github.com/LuizMaestri/in-time/commit/7f760fa3439ade2f55bd42b78eaf95901ca2a41b)
+
+## _Mongokit fork_
+
+1. [fix python 3 commit](https://github.com/LuizMaestri/in-time/commit/f586c9d0c0116cec6f81c10e32d08733cf2fb4d5)
+
+## _mongo-easy project_
+
+1. [First Blood commit](https://github.com/LuizMaestri/mongo-easy/commit/27c1111ef82f62997e5afe553de406a66753d57d)
