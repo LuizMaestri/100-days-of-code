@@ -108,3 +108,37 @@ I gonna try create my own ODM for python 'cause MongoKit and MongoAlchemy isn't 
 ## _mongo-easy project_
 
 1. [First Blood commit](https://github.com/LuizMaestri/mongo-easy/commit/27c1111ef82f62997e5afe553de406a66753d57d)
+
+  ## Day 6: January 09, Monday
+
+**Projects**<br>
+[In Time](https://github.com/LuizMaestri/in-time)<br>
+[MongoKit](https://github.com/LuizMaestri/mongokit) (_**fork**_)<br>
+[Mongo Easy](https://github.com/LuizMaestri/mongo-easy)
+
+**Today's Progress**: I've no progress.
+
+**Thoughts**<br>
+I've stop code and study pymongo and planing better
+
+**Link(s) to work**
+
+## _in-time project_
+
+**No Commit**
+
+## _Mongokit fork_
+
+**No Commit**
+
+## _mongo-easy project_
+
+1. [Add pycache dirs and .idea dir to .gitignore commit](https://github.com/LuizMaestri/mongo-easy/commit/0fd6fdd70d1346e1f518a393f3d72896df84287b)
+2. [Modified README commit](https://github.com/LuizMaestri/mongo-easy/commit/02404e2c837813a01ddad01ca4c39b4898352844)
+3. [Create a field class to validate data and dict field class to create doc commit](https://github.com/LuizMaestri/mongo-easy/commit/795f2ed8dd08484b1aa0b051f2ece59eb4e785e3)
+4. [Start module commit](https://github.com/LuizMaestri/mongo-easy/commit/48a40df591308080fbbfbe358fb48cc5ee65db6b)
+5. [Start create document class commit](https://github.com/LuizMaestri/mongo-easy/commit/95c31cbd8d794b70a2e2ce9a4dc8c943363f768a)
+6. [Fix README commit](https://github.com/LuizMaestri/mongo-easy/commit/07270e6194278b458736e1bc0de2c05e03166818)
+7. [Rename exceptions and add exception to default value commit](https://github.com/LuizMaestri/mongo-easy/commit/7ecdd97caba6dccd0ecc550fdf461116e2f8ce82)
+8. [Create especific field to ObjectId and change Field init method commit](https://github.com/LuizMaestri/mongo-easy/commit/51da5fb54d86f96dc4481ab3a05dec106ec69f8c)
+9. [Continue implementing Document init method commit](https://github.com/LuizMaestri/mongo-easy/commit/35dc29858ad363797d225d380dbb91f57c652d40)
