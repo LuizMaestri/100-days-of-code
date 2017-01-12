@@ -142,3 +142,56 @@ I've stop code and study pymongo and planing better
 7. [Rename exceptions and add exception to default value commit](https://github.com/LuizMaestri/mongo-easy/commit/7ecdd97caba6dccd0ecc550fdf461116e2f8ce82)
 8. [Create especific field to ObjectId and change Field init method commit](https://github.com/LuizMaestri/mongo-easy/commit/51da5fb54d86f96dc4481ab3a05dec106ec69f8c)
 9. [Continue implementing Document init method commit](https://github.com/LuizMaestri/mongo-easy/commit/35dc29858ad363797d225d380dbb91f57c652d40)
+
+  ## Day 7: January 10, Tuesday
+
+**Projects**<br>
+[In Time](https://github.com/LuizMaestri/in-time)<br>
+[MongoKit](https://github.com/LuizMaestri/mongokit) (_**fork**_)<br>
+[Mongo Easy](https://github.com/LuizMaestri/mongo-easy)
+
+**Today's Progress**: Not coding only study pymongo and planning.
+
+**Thoughts**<br>
+I've stop code and study pymongo and planing better
+
+**Link(s) to work**
+
+## _in-time project_
+
+**No Commit**
+
+## _Mongokit fork_
+
+**No Commit**
+
+## _mongo-easy project_
+
+**No Commit**
+
+  ## Day 8: January 11, Wednesday
+
+**Projects**<br>
+[In Time](https://github.com/LuizMaestri/in-time)<br>
+[MongoKit](https://github.com/LuizMaestri/mongokit) (_**fork**_)<br>
+[Mongo Easy](https://github.com/LuizMaestri/mongo-easy)
+
+**Today's Progress**: I've no progress.
+
+**Thoughts**<br>
+I've stop code and study pymongo and planing better
+
+**Link(s) to work**
+
+## _in-time project_
+
+**No Commit**
+
+## _Mongokit fork_
+
+**No Commit**
+
+## _mongo-easy project_
+
+1. [Reset project commit](https://github.com/LuizMaestri/mongo-easy/commit/d6af551c446d8691d64a9654e0f9bf6879cd2abb)
+2. [Reset Document an Field classes commit](https://github.com/LuizMaestri/mongo-easy/commit/7f96412fac7cb922befd6d0f7a9f43389ee22484)
